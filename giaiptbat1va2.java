@@ -69,7 +69,7 @@ public class giaiptbat1va2 {
             double c = scanner.nextDouble();
             System.out.println(giaiPhuongTrinhBac2(a, b, c));
         } else {
-            System.out.println("Lua chon khong hop le. Vui long nhap 1 hoac 2.");
+            System.out.println("Chon ko dung, vui long nhap 1 hoac 2.");
         }
 
         scanner.close();
